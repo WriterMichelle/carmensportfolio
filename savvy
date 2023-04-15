@@ -1,0 +1,821 @@
+<!DOCTYPE html><html lang="en"><head><link rel="icon" type="image/x-icon" href="/static/favicon.ico"/><link rel="preconnect" href="https://s3.amazonaws.com"/><link rel="preconnect" href="https://www.google-analytics.com"/><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="preconnect" href="https://assets.designs.ai"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://connect.facebook.net"/><link rel="dns-prefetch" href="https://s3.amazonaws.com"/><link rel="dns-prefetch" href="https://www.google-analytics.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://assets.designs.ai"/><link rel="dns-prefetch" href="https://connect.facebook.net"/><link rel="preconnect" href="https://fonts.gstatic.com"/><meta name="viewport" content="width=device-width"/><meta charSet="utf-8"/><title>Designs.ai - Creative work done effortlessly </title><meta property="og:locale" content="en_US"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@DesignsDotAI"/><script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.8.3/polyfill.min.js"></script><script src="https://polyfill.io/v3/polyfill.min.js?features=Intl%2CAbortController%2CIntl.getCanonicalLocales%2CIntl.NumberFormat%2CIntl.Locale"></script><meta property="og:url" content="https://designs.ai"/><meta name="description" content="Try Designs.ai for free and create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI."/><meta name="keywords" content="designsai, logo maker, video maker, mockup maker, design maker, designsdotai, designs ai online, online logo, online video, online design, online mockup, logo maker online, easy logo, easy video, easy mockup"/><meta property="og:description" content="Try Designs.ai for free and create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI."/><meta property="og:title" content="Create logos, videos, banners, voiceovers with AI - Designs.ai"/><meta property="og:site_name" content="Create logos, videos, banners, voiceovers with AI - Designs.ai"/><meta property="og:image" content="https://assets.designs.ai/images/og/da-fb.jpg"/><meta name="twitter:title" content="Create logos, videos, banners, voiceovers with AI - Designs.ai"/><meta name="twitter:image" content="https://assets.designs.ai/images/og/da-tw.jpg"/><meta name="twitter:description" content="Try Designs.ai for free and create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI."/><meta name="next-head-count" content="18"/><link rel="preload" href="/_next/static/css/e14e74605b633a853623.css" as="style"/><link rel="stylesheet" href="/_next/static/css/e14e74605b633a853623.css" data-n-g=""/><link rel="preload" href="/_next/static/css/24f2db79cc3b732d6577.css" as="style"/><link rel="stylesheet" href="/_next/static/css/24f2db79cc3b732d6577.css" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-b69b38e0e606287ba003.js"></script><script src="/_next/static/chunks/webpack-fc333a90b728b8fd3f5b.js" defer=""></script><script src="/_next/static/chunks/framework-336caa3f6419768205fe.js" defer=""></script><script src="/_next/static/chunks/main-517a0df70a348f811e15.js" defer=""></script><script src="/_next/static/chunks/pages/_app-c0094f1725b14432429f.js" defer=""></script><script src="/_next/static/chunks/cb1608f2-651e42bc04ad3ecf4ad7.js" defer=""></script><script src="/_next/static/chunks/7678-ca44e1653537549b10e0.js" defer=""></script><script src="/_next/static/chunks/1216-6f9babf4ba01a9544c30.js" defer=""></script><script src="/_next/static/chunks/9530-1edaf67976743cd7c185.js" defer=""></script><script src="/_next/static/chunks/2023-fb652e9fda40829618d1.js" defer=""></script><script src="/_next/static/chunks/3932-4fce9d52304b51af8757.js" defer=""></script><script src="/_next/static/chunks/6304-5fdaf21042c6b82eaa66.js" defer=""></script><script src="/_next/static/chunks/pages/free-trial-bc29390eb5a29f7a8d97.js" defer=""></script><script src="/_next/static/xfgOY7ItsEQKrdid3ndNF/_buildManifest.js" defer=""></script><script src="/_next/static/xfgOY7ItsEQKrdid3ndNF/_ssgManifest.js" defer=""></script><style id="jss-server-side">.MuiPopover-paper {
+  outline: 0;
+  position: absolute;
+  max-width: calc(100% - 32px);
+  min-width: 16px;
+  box-shadow: 0 0 2px 0 rgba(145, 158, 171, 0.24), 0 12px 24px 0 rgba(145, 158, 171, 0.24);
+  max-height: calc(100% - 32px);
+  min-height: 16px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.jss76 {
+  color: #fff;
+  box-shadow: 0 8px 16px 0 rgba(130, 65, 121, 0.24);
+  background-color: #824179;
+}
+.jss76:hover {
+  color: #fff;
+  background-color: #5A205D;
+}
+.jss77 {
+  color: #fff;
+  box-shadow: 0 8px 16px 0 rgba(0, 147, 153, 0.24);
+  background-color: #009399;
+}
+.jss77:hover {
+  color: #fff;
+  background-color: #00576E;
+}
+.jss78 {
+  color: #212B36;
+  box-shadow: 0 8px 16px 0 rgba(91, 140, 14, 0.24);
+  background-color: #5B8C0E;
+}
+.jss78:hover {
+  color: #212B36;
+  background-color: #386407;
+}
+.jss79 {
+  color: #212B36;
+  box-shadow: 0 8px 16px 0 rgba(173, 94, 5, 0.24);
+  background-color: #AD5E05;
+}
+.jss79:hover {
+  color: #212B36;
+  background-color: #7C3702;
+}
+.jss80 {
+  color: #fff;
+  box-shadow: 0 8px 16px 0 rgba(193, 42, 42, 0.24);
+  background-color: #C12A2A;
+}
+.jss80:hover {
+  color: #fff;
+  background-color: #8A1529;
+}
+.jss81 {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0 8px 16px 0 rgba(145, 158, 171, 0.24);
+  background-color: #fff;
+}
+.jss81:hover {
+  background-color: #DFE3E8;
+}
+.jss82 {
+  color: #320C3E;
+  border: 1px solid rgba(130, 65, 121, 0.48);
+}
+.jss82:hover {
+  border: 1px solid #824179;
+  background-color: rgba(50, 12, 62, 0.08);
+}
+.jss83 {
+  color: #002D49;
+  border: 1px solid rgba(0, 147, 153, 0.48);
+}
+.jss83:hover {
+  border: 1px solid #009399;
+  background-color: rgba(0, 45, 73, 0.08);
+}
+.jss84 {
+  color: #1F4302;
+  border: 1px solid rgba(91, 140, 14, 0.48);
+}
+.jss84:hover {
+  border: 1px solid #5B8C0E;
+  background-color: rgba(31, 67, 2, 0.08);
+}
+.jss85 {
+  color: #531C00;
+  border: 1px solid rgba(173, 94, 5, 0.48);
+}
+.jss85:hover {
+  border: 1px solid #AD5E05;
+  background-color: rgba(83, 28, 0, 0.08);
+}
+.jss86 {
+  color: #5C0825;
+  border: 1px solid rgba(193, 42, 42, 0.48);
+}
+.jss86:hover {
+  border: 1px solid #C12A2A;
+  background-color: rgba(92, 8, 37, 0.08);
+}
+.jss87 {
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.48);
+}
+.jss87:hover {
+  border: 1px solid #fff;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+.jss88 {
+  color: #320C3E;
+}
+.jss88:hover {
+  background-color: rgba(50, 12, 62, 0.08);
+}
+.jss89 {
+  color: #002D49;
+}
+.jss89:hover {
+  background-color: rgba(0, 45, 73, 0.08);
+}
+.jss90 {
+  color: #1F4302;
+}
+.jss90:hover {
+  background-color: rgba(31, 67, 2, 0.08);
+}
+.jss91 {
+  color: #531C00;
+}
+.jss91:hover {
+  background-color: rgba(83, 28, 0, 0.08);
+}
+.jss92 {
+  color: #5C0825;
+}
+.jss92:hover {
+  background-color: rgba(92, 8, 37, 0.08);
+}
+.jss93 {
+  color: #fff;
+}
+.jss93:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+.jss1 {
+  color: #FFFFFF;
+  padding: 12px;
+  box-shadow: 0 8px 16px 0 rgba(145, 158, 171, 0.24);
+  border-radius: 8px;
+  background-color: #161C24 !important;
+}
+.jss2 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  margin-right: 12px;
+  border-radius: 12px;
+  justify-content: center;
+}
+.jss2 svg {
+  width: 24px;
+  height: 24px;
+}
+.jss3 {
+  padding: 0;
+  font-weight: 600;
+}
+.jss4 {
+  margin-right: -4px;
+}
+.jss4 svg {
+  width: 20px;
+  height: 20px;
+  opacity: 0.48;
+}
+.jss4 svg:hover {
+  opacity: 1;
+}
+.jss5 {
+  color: #212B36 !important;
+  background-color: #FFFFFF !important;
+}
+.jss5 .jss2 {
+  color: #009399;
+  background-color: rgba(0, 147, 153, 0.16);
+}
+.jss6 {
+  color: #212B36 !important;
+  background-color: #FFFFFF !important;
+}
+.jss6 .jss2 {
+  color: #5B8C0E;
+  background-color: rgba(91, 140, 14, 0.16);
+}
+.jss7 {
+  color: #212B36 !important;
+  background-color: #FFFFFF !important;
+}
+.jss7 .jss2 {
+  color: #AD5E05;
+  background-color: rgba(173, 94, 5, 0.16);
+}
+.jss8 {
+  color: #212B36 !important;
+  background-color: #FFFFFF !important;
+}
+.jss8 .jss2 {
+  color: #C12A2A;
+  background-color: rgba(193, 42, 42, 0.16);
+}
+.jss9 {
+  top: 60px;
+}
+.jss99 {
+  border: solid 1px rgba(145, 158, 171, 0.08);
+  overflow: inherit;
+  box-shadow: 0 0 2px 0 rgba(145, 158, 171, 0.24), 0 20px 40px -4px rgba(145, 158, 171, 0.24);
+  margin-top: 12px;
+  margin-left: 4px;
+}
+@media (min-width:576px) {
+  .jss100 {
+    top: -7px;
+    right: 20px;
+    width: 12px;
+    height: 12px;
+    content: '';
+    z-index: 1;
+    position: absolute;
+    transform: rotate(-135deg);
+    background: #fff;
+    border-right: solid 1px rgba(145, 158, 171, 0.12);
+    border-bottom: solid 1px rgba(145, 158, 171, 0.12);
+    border-radius: 0 0 4px 0;
+  }
+}
+@font-face {
+  font-family: dai-ap-font;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: 
+    local('MontSerrat'),
+    url('https://assets.designs.ai/font/Montserrat-Regular.otf') format('opentype'),
+    url('/static/fonts/Montserrat-Regular.otf') format('opentype')
+  ;
+}
+@font-face {
+  font-family: dai-ap-font;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    local('MontSerrat-Medium'),
+    url('https://assets.designs.ai/font/Montserrat-Medium.otf') format('opentype'),
+    url('/static/fonts/Montserrat-Medium.otf') format('opentype')
+  ;
+}
+@font-face {
+  font-family: dai-ap-font;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    local('MontSerrat-SemiBold'),
+    url('https://assets.designs.ai/font/Montserrat-SemiBold.otf') format('opentype'),
+    url('/static/fonts/Montserrat-SemiBold.otf') format('opentype')
+  ;
+}
+@font-face {
+  font-family: dai-ap-font;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: 
+    local('MontSerrat-Bold'),
+    url('https://assets.designs.ai/font/Montserrat-Bold.otf') format('opentype'),
+    url('/static/fonts/Montserrat-Bold.otf') format('opentype')
+  ;
+}
+@font-face {
+  font-family: dai-ap-font;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: 
+    local('MontSerrat-ExtraBold'),
+    url('https://assets.designs.ai/font/Montserrat-ExtraBold.otf') format('opentype'),
+    url('/static/fonts/Montserrat-ExtraBold.otf') format('opentype')
+  ;
+}
+html {
+  width: 100%;
+  height: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+body::-webkit-scrollbar, body *::-webkit-scrollbar {
+  width: 8px;
+  height: 6px;
+  background-color: rgba(145, 158, 171, 0.24);
+}
+body::-webkit-scrollbar-thumb, body ::-webkit-scrollbar-thumb {
+  border: none;
+  border-radius: 8px;
+  background-color: rgba(99, 115, 129, 0.48);
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
+a {
+  color: #824179;
+}
+a:hover {
+  color: #D998C4;
+  text-decoration: none;
+}
+.blur-up {
+  filter: blur(5px);
+  transition: filter 400ms, -webkit-filter 400ms;
+  -webkit-filter: blur(5px);
+}
+.blur-up.lazyloaded  {
+  filter: blur(0);
+  -webkit-filter: blur(0);
+}
+.MuiLoadingButton-pending.Mui-disabled  {
+  background-color: #824179;
+}
+  .jss101 {
+    right: 30px;
+    display: flex;
+    position: absolute;
+    align-self: center;
+  }
+@media (min-width:992px) {
+  .jss101 {
+    display: none;
+  }
+}
+@media (min-width:992px) {
+  .jss102 {
+    width: 100%;
+    flex-shrink: 0;
+  }
+}
+  .jss103 {
+    margin: 0;
+    padding: 0;
+  }
+  .jss103 svg {
+    color: rgb(92, 42, 90);
+    font-size: 46px;
+  }
+  .jss104 {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .jss104 {
+    min-height: 48px;
+  }
+}
+@media (min-width:576px) {
+  .jss104 {
+    min-height: 64px;
+  }
+}
+  .jss105 {
+    color: #fff !important;
+    width: 100%;
+    background-color: #333 !important;
+  }
+@media (min-width:992px) {
+  .jss105 {
+    display: none;
+  }
+}
+  .jss46 {
+    border: 0;
+    background: 0;
+  }
+  .jss47 {
+    cursor: pointer;
+  }
+  .jss48 {
+    text-decoration: none;
+  }
+  .jss49 {
+    height: 44px;
+  }
+  .jss50 {
+    background-color: rgba(50, 12, 62, 0.08);
+  }
+  .jss51 {
+    color: #595959 !important;
+    padding: 20px 10px !important;
+    font-size: 14px !important;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 700;
+    margin-right: 0;
+  }
+@media (min-width:1200px) {
+  .jss51 {
+    margin-right: 30px !important;
+  }
+}
+  .jss51:hover {
+    color: #5c2a5a !important;
+  }
+  .jss51:focus {
+    outline: none;
+  }
+  .jss52 {
+    color: #5c2a5a;
+  }
+  .jss53 {
+    transform: rotate(180deg);
+  }
+  .jss54 {
+    font-size: 12px;
+  }
+  .jss55 {
+    align-self: center;
+  }
+  .jss56 {
+    margin-left: 10px;
+  }
+  .jss57 {
+    margin-right: 0;
+  }
+  .jss58 {
+    margin-bottom: 10px;
+  }
+  .jss59 {
+    height: 111px;
+    transition: height 0.1s ease;
+  }
+  .jss60 {
+    height: 0;
+    transition: height 0.1s ease;
+  }
+  .jss61 {
+    left: 0;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+    position: absolute;
+    overflow-x: visible;
+  }
+  .jss62 {
+    left: 0;
+    right: 0;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+    z-index: 1;
+    position: absolute;
+    flex-direction: row;
+  }
+  .jss63 {
+    display: flex;
+    opacity: 1;
+    transition: opacity 0.3s linear;
+  }
+  .jss64 {
+    display: none;
+    opacity: 0;
+  }
+  .jss65 {
+    background: #f5f5f5;
+  }
+  .jss66 {
+    padding: 20px;
+  }
+  .jss67 {
+    width: 70px;
+    word-break: keep-all;
+  }
+  .jss68 {
+    top: 15px;
+    color: #333;
+    position: absolute;
+    font-size: 11px;
+  }
+  .jss69 {
+    filter: blur(2px);
+    opacity: 0.6;
+  }
+  .jss70 {
+    width: 50px;
+    height: 50px;
+  }
+  .jss71 {
+    color: #333333;
+    height: 70px;
+    display: flex;
+    font-weight: normal;
+    flex-direction: column;
+  }
+  .jss72 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .jss73 {
+    text-transform: uppercase;
+  }
+  .jss74 {
+    color: #595959;
+    width: 200px;
+    font-size: 12px;
+    margin-top: 0px;
+    line-height: 16px;
+  }
+  .jss75 {
+    padding-top: 16px;
+  }
+  .jss15 {
+    color: #fff;
+    width: auto;
+    padding: 10px 20px;
+    overflow: hidden;
+    font-size: 14px;
+    background: #824179;
+    margin-left: 30px;
+    white-space: nowrap;
+    border-radius: 4px;
+    text-overflow: ellipsis;
+  }
+@media (max-width:1300px) {
+  .jss15 {
+    width: 116px;
+  }
+}
+  .jss16 {
+    margin-left: 10px;
+  }
+  .jss17 {
+    color: #595959;
+    font-weight: 700;
+  }
+  .jss18 {
+    width: 100%;
+    user-select: none;
+  }
+  .jss19 {
+    display: flex;
+    align-items: center;
+  }
+  .jss20 {
+    color: #595959;
+  }
+  .jss20:hover {
+    color: #824179;
+  }
+  .jss21 {
+    left: -35px;
+    width: 110%;
+    height: 224px;
+    z-index: 100;
+    position: absolute;
+    box-shadow: 0px 4px 11px -4px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+  }
+  .jss22 {
+    width: 450px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding-top: 27px;
+    padding-left: 0;
+    flex-direction: column;
+  }
+  .jss23 {
+    font-size: 16px;
+    line-height: 35px;
+  }
+  .jss23:hover {
+    color: #824179;
+  }
+  .jss24 {
+    display: none;
+  }
+  .jss25 {
+    right: 0;
+    display: none;
+    z-index: 3;
+    position: absolute;
+    max-width: max-content;
+    min-width: 240px;
+    box-shadow: 0px 4px 11px -4px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+  }
+  .jss26 {
+    color: #595959;
+    font-size: 14px;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0;
+  }
+  .jss27 {
+    opacity: 0.5;
+    border-top: 0.5px solid #b7b1b7;
+  }
+  .jss28 {
+    padding: 18px 32px 0;
+  }
+  .jss29 {
+    color: #595959;
+    font-size: 18px;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 700;
+    line-height: 22px;
+    white-space: nowrap;
+    margin-bottom: 8px;
+    letter-spacing: 0;
+  }
+  .jss30 {
+    padding: 0 32px;
+  }
+  .jss31 {
+    color: #595959;
+    display: block;
+    font-size: 14px;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 500;
+    line-height: 18px;
+    margin-bottom: 20px;
+    letter-spacing: 0;
+  }
+  .jss31:hover {
+    color: #824179;
+  }
+  .jss32 {
+    position: relative;
+  }
+  .jss32:hover .jss24 {
+    display: block;
+  }
+  .jss32:hover .jss21 {
+    display: flex;
+  }
+  .jss32:hover .jss25 {
+    display: block;
+  }
+  .jss33 {
+    left: -384px;
+    width: 560px;
+  }
+  .jss34 {
+    height: 44px;
+  }
+  .jss35:hover {
+    background-color: rgba(50, 12, 62, 0.08);
+  }
+  .jss36 {
+    color: #595959 !important;
+    width: auto;
+    padding: 20px 10px !important;
+    overflow: hidden;
+    font-size: 14px !important;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 700;
+    margin-right: 0px;
+    justify-content: left;
+  }
+@media (max-width:1300px) {
+  .jss36 {
+    width: 75px;
+  }
+}
+  .jss36:hover {
+    color: #5c2a5a !important;
+  }
+  .jss36:focus {
+    outline: none;
+  }
+  .jss36 span {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .jss37 {
+    color: #595959;
+    cursor: pointer;
+    height: 39px;
+    display: flex;
+    position: relative;
+    font-size: 14px;
+    align-items: center;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 700;
+    line-height: 18px;
+    user-select: none;
+    white-space: nowrap;
+    margin-right: 40px;
+    letter-spacing: 0;
+    text-decoration: none;
+  }
+  .jss37:hover {
+    color: #824179;
+  }
+  .jss38 {
+    line-height: 40px;
+  }
+  .jss39 {
+    height: 19.2px;
+    font-size: 11px;
+    vertical-align: 0;
+  }
+  .jss40 {
+    display: flex;
+    overflow: hidden;
+    max-width: 130px;
+    font-family: dai-ap-font, sans-serif !important;
+    font-weight: 700;
+    padding-right: 8px;
+    text-overflow: ellipsis;
+  }
+  .jss41 {
+    text-transform: uppercase;
+  }
+  .jss42 {
+    margin-right: 10px;
+  }
+  .jss43 {
+    margin-right: 0;
+  }
+  .jss44 {
+    margin-right: 30px;
+  }
+  .jss45 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .jss94 {
+    padding: 8px 20px;
+    white-space: pre-wrap;
+  }
+  .jss94 span {
+    font-size: 14px !important;
+  }
+  .jss95 {
+    color: #595959 !important;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    font-size: 14px !important;
+    margin-top: -2px;
+    margin-right: 30px !important;
+    text-transform: uppercase;
+  }
+  .jss95:hover {
+    color: #5c2a5a;
+  }
+  .jss95 .MuiButton-endIcon {
+    margin-left: 8px;
+  }
+  .jss95 .MuiButton-endIcon :nth-of-type(1) {
+    font-size: 25px;
+  }
+  .jss96 {
+    background-color: #F4F6F8;
+  }
+  .jss97 .MuiTypography-root {
+    font-weight: 800;
+  }
+  .jss10 {
+    height: 48px;
+    display: flex;
+    margin-top: 6px;
+    align-items: center;
+  }
+  .jss11 {
+    width: 100%;
+    display: flex;
+    padding: 0 35px;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.1);
+    flex-direction: row;
+  }
+  .jss12 {
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    position: sticky;
+  }
+  .jss13 {
+    top: 47px;
+    color: #fff;
+    height: 47px;
+    display: flex;
+    z-index: 9;
+    font-size: 16px;
+    align-self: center;
+    background: #824179;
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 0 !important;
+    justify-content: center;
+  }
+@media (min-width:992px) {
+  .jss13 {
+    display: none;
+  }
+}
+  .jss14 {
+    background: #fff;
